@@ -1,1 +1,4 @@
 node_modules/
+example-arrow-functions.js
+examplePromise.js
+.DS_store
